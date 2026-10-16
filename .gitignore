@@ -1,1 +1,12 @@
 /target
+
+# Added by projectcode.dev
+.env
+.env.local
+.env.*.local
+environments
+node_modules
+dist
+build
+.next
+.vite
